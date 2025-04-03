@@ -22,8 +22,8 @@ Next.js를 활용한 웹 서비스 개발과 Flutter를 이용한 크로스 플�
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungseokman&show_icons=true&theme=radical&hide_rank=true&card_width=495&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungseokman&layout=compact&theme=radical&card_width=495&langs_count=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungseokman&show_icons=true&theme=radical&hide_rank=true&card_width=495)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungseokman&layout=compact&theme=radical&card_width=495)
 
 ## 📫 Contact & Channels
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seokman.jung@gmail.com) seokman.jung@gmail.com
